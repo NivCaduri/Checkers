@@ -1,5 +1,4 @@
 # Checkers
 
-## IDC
+A console application of the game checkers.
 
-By Niv Caduri
